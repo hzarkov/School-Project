@@ -1,10 +1,13 @@
+//News
+//Contacts
+//Login
 People
-Add
-Remove
-Add work time
+//Add
+//Remove
+//Add work time
 Information
-For this week
-Older
+//For this week
+//Older
 Pay
-With credit card
-Cash
+//With credit card
+//Cash
