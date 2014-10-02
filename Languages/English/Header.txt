@@ -1,13 +1,13 @@
-//News
-//Contacts
-//Login
 People
-//Add
-//Remove
-//Add work time
+Name
+Phone
+E-Mail
+Address
+Create
+Delete
+There was an error.
+Successfully create the new user.
+Successfully remove the user.
 Information
-//For this week
-//Older
+Add work time
 Pay
-//With credit card
-//Cash
