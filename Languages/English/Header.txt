@@ -8,6 +8,7 @@ Delete
 There was an error.
 Successfully create the new user.
 Successfully remove the user.
+All fields marked with * are required.
 Information
 Add work time
 Pay
